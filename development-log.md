@@ -5,8 +5,6 @@ Keep entries short (3–8 bullets). One section per day.
 
 > Tip: Markdown is preferred, but plain text is fine. If you have plain notes you want in Markdown, you can quickly convert with tools like **Pandoc** (`pandoc input.txt -o output.md`) or paste into a `.md` file and tidy in VS Code with the **Markdown All in One** extension.
 
-**Quick links:** [README.md](../README.md) • [Metrics Dictionary](./metrics-dictionary.md) • [DAX Library](./dax-library.md)
-
 ---
 
 ## Daily Entry Template (copy/paste)
